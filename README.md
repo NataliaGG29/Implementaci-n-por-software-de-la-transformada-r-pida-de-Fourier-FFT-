@@ -1,1 +1,1 @@
-# Implementaci-n-por-software-de-la-transformada-r-pida-de-Fourier-FFT-
+# Implementación por software de la transformada rápida de Fourier (FFT)
